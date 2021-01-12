@@ -1,8 +1,9 @@
 # 3d_geometry_world_threejs
 A 3d world of Geometries with VueJS and Threejs
 
-<<<<<<< HEAD
-# vue
+![Demo GIF](https://github.com/olubiyiontheweb/3d_geometry_world_threejs/blob/master/geometryworld1%2000_00_00-00_00_30.gif)
+
+![Demo GIF](https://github.com/olubiyiontheweb/3d_geometry_world_threejs/blob/master/geometryworld2%2000_00_00-00_00_30.gif)
 
 ## Project setup
 ```
@@ -19,14 +20,3 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# 3d_geometry_world_threejs
-A 3d world of Geometries with VueJS and Threejs
->>>>>>> d4b2e2377816aa03f4b3db859687ca0b806b5b35
